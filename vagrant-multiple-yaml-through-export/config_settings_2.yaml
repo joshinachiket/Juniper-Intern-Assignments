@@ -1,0 +1,12 @@
+---
+num_of_slaves: 3
+prefix_ip_addr: 174.10.100.
+tag_version: 6
+stable_contrail_ansible_sha: 47a025d8bbef129baf4455fe69ad8cc5d8ceb2eb
+memory: 1024 * 16
+cpus: 8
+box: hashicorp/precise32
+box_url: http://files.vagrantup.com/precise32.box
+network: private_network
+controller_hostname: controller
+builder_hostname: builder
