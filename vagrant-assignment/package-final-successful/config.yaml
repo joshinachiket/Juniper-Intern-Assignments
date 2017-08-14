@@ -17,3 +17,7 @@ port:
   contrail_http: 9143
   marathon: 9990
   mesos_master: 9991
+
+
+# While creating a package please use the following command to include the intire environment in the VM
+# vagrant package --include .d/.vagrant
