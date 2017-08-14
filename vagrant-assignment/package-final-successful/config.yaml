@@ -1,0 +1,19 @@
+---
+vms:
+  num_of_slaves: 2
+  prefix_ip_addr: 171.10.100.
+  tag_version: 6
+  stable_contrail_ansible_sha: 47a025d8bbef129baf4455fe69ad8cc5d8ceb2eb
+  box: centos/7
+  #use your server IP address and marathon port in url
+  url: http://10.84.23.35:9990/v2/apps/
+mesos:
+  include: true
+port:
+  http: 90
+  contrail: 9090
+  controller1: 9092
+  controller2: 9095
+  contrail_http: 9143
+  marathon: 9990
+  mesos_master: 9991
