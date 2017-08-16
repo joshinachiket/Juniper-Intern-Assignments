@@ -4,7 +4,7 @@
 Assignments during the internship period at the Juniper Networks
 
 ## Idustrial Mentor
+Helped through many steps during the internship.
+Forked the main project from mentor's directory and edited extra features. 
 
-![Nachiket Joshi](https://avatars.githubusercontent.com/TheBloodMage?s=100) |  ![Aniket Gawade](https://avatars.githubusercontent.com/aniketgawade?s=100)
-:--------------------------------------------------------------------------:|:---------------------------------------------------------------------:
-[Nachiket Joshi](https://github.com/TheBloodMage) | [Aniket Gawade](https://github.com/aniketgawade)
+[Aniket Gawade](https://github.com/aniketgawade)
